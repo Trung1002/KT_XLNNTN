@@ -1,0 +1,41 @@
+﻿qid,item_id,topic,field,style,text,gold_passage_id,gold_answer
+Q078-18,I078,ctsv,phi,ten,Đăng ký tham gia câu lạc bộ có mất phí không?,P078,20.000 đồng phí thành viên
+Q079-16,I079,ctsv,han,alias,"Cho hỏi, đi tình nguyện muốn được cộng điểm thì thời gian nộp hồ sơ ra sao?",P079,10 ngày sau khi kết thúc hoạt động
+Q078-16,I078,ctsv,han,alias,"Cho hỏi, muốn vào câu lạc bộ của trường thì thời gian nộp hồ sơ ra sao?",P078,trong tuần sinh hoạt đầu học kỳ
+Q075-19,I075,ctsv,phi,ten,Chi phí để xác nhận hoãn nghĩa vụ quân sự là bao nhiêu tiền?,P075,miễn phí
+Q073-04,I073,ctsv,noi,ten,"Mình cần xác nhận vay vốn tín dụng sinh viên, phải liên hệ phòng ban nào vậy?",P073,Phòng Công tác sinh viên
+Q006-20,I006,dang_ky_hoc_phan,phi,ten,Mình đề nghị mở lớp ngoài kế hoạch thì phải đóng bao nhiêu?,P006,miễn phí
+Q010-11,I010,dang_ky_hoc_phan,han,ten,Mình phải đăng ký thực tập doanh nghiệp trước thời điểm nào?,P010,4 tuần trước ngày bắt đầu thực tập
+Q004-05,I004,dang_ky_hoc_phan,noi,alias,"Em điểm môn này thấp muốn học lại cho cao hơn, thì làm ở đâu ạ?",P004,Phòng Đào tạo
+Q005-20,I005,dang_ky_hoc_phan,phi,ten,Mình đăng ký học vượt thì phải đóng bao nhiêu?,P005,không thu phí hồ sơ
+Q008-19,I008,dang_ky_hoc_phan,phi,ten,Chi phí để chuyển ngành học là bao nhiêu tiền?,P008,200.000 đồng
+Q029-05,I029,hoc_bong,noi,alias,"Em có đề tài nghiên cứu muốn xin kinh phí, thì làm ở đâu ạ?",P029,Phòng Khoa học Công nghệ
+Q022-20,I022,hoc_bong,phi,ten,Mình xin học bổng doanh nghiệp tài trợ thì phải đóng bao nhiêu?,P022,miễn phí
+Q021-06,I021,hoc_bong,noi,alias,Mình học giỏi nên muốn xin học bổng thì liên hệ phòng nào?,P021,Phòng Công tác sinh viên
+Q024-15,I024,hoc_bong,han,alias,"Bạn ơi, gia đình khó khăn muốn xin hỗ trợ tiền thì có hạn chót không?",P024,45 ngày đầu học kỳ
+Q029-15,I029,hoc_bong,han,alias,"Bạn ơi, có đề tài nghiên cứu muốn xin kinh phí thì có hạn chót không?",P029,trước ngày 15 tháng 3 hằng năm
+Q012-21,I012,hoc_phi,phi,alias,"Em chưa có tiền đóng học phí nên xin nộp trễ, vậy tốn bao nhiêu tiền?",P012,miễn phí
+Q020-08,I020,hoc_phi,noi,alias,"Cho hỏi, hai anh em cùng học một trường muốn được giảm thì đơn vị nào giải quyết?",P020,Phòng Công tác sinh viên
+Q020-04,I020,hoc_phi,noi,ten,"Mình cần giảm học phí cho anh chị em ruột, phải liên hệ phòng ban nào vậy?",P020,Phòng Công tác sinh viên
+Q020-14,I020,hoc_phi,han,alias,Mình hai anh em cùng học một trường muốn được giảm thì phải làm trước khi nào?,P020,15 ngày đầu học kỳ
+Q012-11,I012,hoc_phi,han,ten,Mình phải gia hạn đóng học phí trước thời điểm nào?,P012,trước hạn đóng học phí 3 ngày
+Q053-19,I053,ky_tuc_xa,phi,ten,Chi phí để chuyển phòng ký túc xá là bao nhiêu tiền?,P053,30.000 đồng
+Q058-15,I058,ky_tuc_xa,han,alias,"Bạn ơi, cho người nhà vào ký túc xá thăm mình thì có hạn chót không?",P058,trước giờ thăm 1 ngày
+Q052-08,I052,ky_tuc_xa,noi,alias,"Cho hỏi, sắp hết hợp đồng muốn ở thêm thì đơn vị nào giải quyết?",P052,Ban quản lý ký túc xá
+Q051-24,I051,ky_tuc_xa,phi,alias,"Cho hỏi, muốn ở nội trú trong trường thì chi phí thế nào?",P051,150.000 đồng tiền đặt cọc
+Q051-21,I051,ky_tuc_xa,phi,alias,"Em muốn ở nội trú trong trường, vậy tốn bao nhiêu tiền?",P051,150.000 đồng tiền đặt cọc
+Q037-06,I037,thi_diem,noi,alias,Mình muốn thi chứng chỉ tiếng Anh để đủ điều kiện ra trường thì liên hệ phòng nào?,P037,Trung tâm Ngoại ngữ
+Q039-20,I039,thi_diem,phi,ten,Mình đăng ký dự thi tại điểm thi khác thì phải đóng bao nhiêu?,P039,200.000 đồng
+Q036-16,I036,thi_diem,han,alias,"Cho hỏi, điểm giữa kỳ bị nhập sai thì thời gian nộp hồ sơ ra sao?",P036,10 ngày kể từ khi công bố điểm quá trình
+Q034-09,I034,thi_diem,han,ten,Thời hạn cấp bảng điểm toàn khóa như thế nào?,P034,3 ngày làm việc
+Q032-16,I032,thi_diem,han,alias,"Cho hỏi, bị ốm không đi thi được thì thời gian nộp hồ sơ ra sao?",P032,trước giờ thi hoặc tối đa 2 ngày sau buổi thi
+Q068-20,I068,thu_vien_cntt,phi,ten,Mình cấp email sinh viên thì phải đóng bao nhiêu?,P068,miễn phí
+Q070-13,I070,thu_vien_cntt,han,alias,"Em ở nhà muốn đọc bài báo khoa học của thư viện, vậy hạn xử lý là bao lâu?",P070,bất kỳ lúc nào
+Q063-08,I063,thu_vien_cntt,noi,alias,"Cho hỏi, chưa đọc xong sách muốn mượn thêm thì đơn vị nào giải quyết?",P063,Thư viện trung tâm
+Q068-11,I068,thu_vien_cntt,han,ten,Mình phải cấp email sinh viên trước thời điểm nào?,P068,3 ngày làm việc kể từ ngày nhập học
+Q062-06,I062,thu_vien_cntt,noi,alias,Mình cần mượn sách giáo trình về nhà thì liên hệ phòng nào?,P062,Thư viện trung tâm
+Q041-09,I041,tot_nghiep,han,ten,Thời hạn đăng ký xét tốt nghiệp như thế nào?,P041,tháng 5 hoặc tháng 11 hằng năm
+Q047-11,I047,tot_nghiep,han,ten,Mình phải nộp khóa luận tốt nghiệp trước thời điểm nào?,P047,trước ngày bảo vệ 7 ngày
+Q049-12,I049,tot_nghiep,han,ten,"Có deadline cho việc điều chỉnh thông tin trên văn bằng không, là bao giờ?",P049,15 ngày làm việc
+Q046-20,I046,tot_nghiep,phi,ten,Mình gia hạn thời gian học tối đa thì phải đóng bao nhiêu?,P046,500.000 đồng
+Q046-11,I046,tot_nghiep,han,ten,Mình phải gia hạn thời gian học tối đa trước thời điểm nào?,P046,1 tháng trước khi hết thời gian học

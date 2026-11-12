@@ -1,0 +1,31 @@
+﻿qid,item_id,topic,field,style,text,gold_passage_id,gold_answer
+Q035-03,I035,thi_diem,noi,ten,Nơi tiếp nhận hồ sơ cấp bảng điểm tiếng Anh là đâu ạ?,P035,Phòng Đào tạo
+Q043-09,I043,tot_nghiep,han,ten,Thời hạn cấp bản sao bằng tốt nghiệp như thế nào?,P043,7 ngày làm việc
+Q077-03,I077,ctsv,noi,ten,Nơi tiếp nhận hồ sơ khiếu nại điểm rèn luyện là đâu ạ?,P077,Phòng Công tác sinh viên
+Q077-09,I077,ctsv,han,ten,Thời hạn khiếu nại điểm rèn luyện như thế nào?,P077,5 ngày kể từ khi công bố kết quả
+Q033-18,I033,thi_diem,phi,ten,Đăng ký thi lại có mất phí không?,P033,100.000 đồng mỗi môn
+Q026-12,I026,hoc_bong,han,ten,"Có deadline cho việc gia hạn học bổng không, là bao giờ?",P026,1 tuần sau khi có điểm
+Q002-10,I002,dang_ky_hoc_phan,han,ten,Hạn chót để hủy học phần đã đăng ký là khi nào?,P002,trong 10 ngày đầu học kỳ
+Q031-08,I031,thi_diem,noi,alias,"Cho hỏi, nghi bài thi bị chấm sai muốn xem lại thì đơn vị nào giải quyết?",P031,Phòng Khảo thí
+Q030-13,I030,hoc_bong,han,alias,"Em hoàn cảnh khó mà vẫn học tốt nên muốn xin, vậy hạn xử lý là bao lâu?",P030,3 tuần đầu học kỳ
+Q027-10,I027,hoc_bong,han,ten,Hạn chót để khiếu nại kết quả xét học bổng là khi nào?,P027,7 ngày kể từ ngày công bố danh sách
+Q050-04,I050,tot_nghiep,noi,ten,"Mình cần xác nhận hoàn thành chương trình đào tạo, phải liên hệ phòng ban nào vậy?",P050,Phòng Đào tạo
+Q043-07,I043,tot_nghiep,noi,alias,"Bạn ơi, làm mất bằng gốc cần bản sao thì phải đến đâu để làm thủ tục?",P043,Phòng Đào tạo
+Q002-07,I002,dang_ky_hoc_phan,noi,alias,"Bạn ơi, lỡ đăng ký nhầm môn nên muốn bỏ thì phải đến đâu để làm thủ tục?",P002,Phòng Đào tạo
+Q057-09,I057,ky_tuc_xa,han,ten,Thời hạn báo hỏng thiết bị trong phòng như thế nào?,P057,báo ngay trong ngày phát hiện
+Q026-02,I026,hoc_bong,noi,ten,Thủ tục gia hạn học bổng làm tại đơn vị nào?,P026,Phòng Công tác sinh viên
+Q031-23,I031,thi_diem,phi,alias,"Bạn ơi, nghi bài thi bị chấm sai muốn xem lại thì hết bao nhiêu vậy?",P031,50.000 đồng mỗi môn
+Q031-18,I031,thi_diem,phi,ten,Phúc khảo bài thi có mất phí không?,P031,50.000 đồng mỗi môn
+Q064-08,I064,thu_vien_cntt,noi,alias,"Cho hỏi, lỡ làm mất sách đã mượn thì đơn vị nào giải quyết?",P064,Thư viện trung tâm
+Q031-15,I031,thi_diem,han,alias,"Bạn ơi, nghi bài thi bị chấm sai muốn xem lại thì có hạn chót không?",P031,5 ngày làm việc kể từ ngày công bố điểm
+Q026-03,I026,hoc_bong,noi,ten,Nơi tiếp nhận hồ sơ gia hạn học bổng là đâu ạ?,P026,Phòng Công tác sinh viên
+Q050-09,I050,tot_nghiep,han,ten,Thời hạn xác nhận hoàn thành chương trình đào tạo như thế nào?,P050,3 ngày làm việc
+Q009-18,I009,dang_ky_hoc_phan,phi,ten,Đăng ký học song ngành có mất phí không?,P009,300.000 đồng
+Q027-22,I027,hoc_bong,phi,alias,Mình thấy kết quả xét học bổng chưa đúng nên thắc mắc thì có phải đóng phí không?,P027,miễn phí
+Q033-23,I033,thi_diem,phi,alias,"Bạn ơi, thi rớt môn muốn thi lần nữa thì hết bao nhiêu vậy?",P033,100.000 đồng mỗi môn
+Q035-04,I035,thi_diem,noi,ten,"Mình cần cấp bảng điểm tiếng Anh, phải liên hệ phòng ban nào vậy?",P035,Phòng Đào tạo
+Q064-12,I064,thu_vien_cntt,han,ten,"Có deadline cho việc bồi thường sách bị mất không, là bao giờ?",P064,trong 30 ngày kể từ ngày báo mất
+Q074-10,I074,ctsv,han,ten,Hạn chót để mua bảo hiểm y tế sinh viên là khi nào?,P074,tháng 9 hằng năm
+Q057-15,I057,ky_tuc_xa,han,alias,"Bạn ơi, điều hòa trong phòng bị hư thì có hạn chót không?",P057,báo ngay trong ngày phát hiện
+Q074-15,I074,ctsv,han,alias,"Bạn ơi, muốn đóng bảo hiểm y tế thì có hạn chót không?",P074,tháng 9 hằng năm
+Q043-17,I043,tot_nghiep,phi,ten,Lệ phí cấp bản sao bằng tốt nghiệp là bao nhiêu?,P043,30.000 đồng mỗi bản

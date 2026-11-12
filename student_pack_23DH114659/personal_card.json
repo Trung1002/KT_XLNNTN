@@ -1,0 +1,48 @@
+{
+  "mssv": "23DH114659",
+  "seed": 98546,
+  "noise": "teencode",
+  "topic_pair": [
+    "ctsv",
+    "dang_ky_hoc_phan"
+  ],
+  "embed_model": "bkai-foundation-models/vietnamese-bi-encoder",
+  "clf_backbone": "distilbert-base-multilingual-cased",
+  "lora": {
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.1,
+    "target_modules": [
+      "q_lin",
+      "v_lin"
+    ]
+  },
+  "fewshot_k": 4,
+  "rag_top_k": 2,
+  "ablation": "A4",
+  "dpo": {
+    "beta": 0.5,
+    "logp_pi_chosen": -20.5,
+    "logp_pi_rejected": -27.4,
+    "logp_ref_chosen": -31.2,
+    "logp_ref_rejected": -19.9
+  },
+  "toy_ranking": [
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "ablation_desc": "Quét trọng số hybrid alpha = 0.0, 0.1, ..., 1.0 trên tập dev",
+  "check_code": "74B111E4",
+  "split_info": {
+    "train_items": 58,
+    "test_items": 22,
+    "n_train": 1392,
+    "n_test": 528
+  }
+}
